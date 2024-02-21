@@ -26,5 +26,6 @@ Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript
 <br>
 <br>
 
-![desktop](https://github.com/felipexavier26/dentelo/assets/103685054/ef9d81fe-fb0c-4a2e-8ceb-9b177584068c)
+![image](https://github.com/felipexavier26/dentelo/assets/103685054/b782f503-c6d6-444b-92da-c89ab4003877)
+
 
