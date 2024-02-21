@@ -1,5 +1,4 @@
-![desktop](https://github.com/felipexavier26/dentelo/assets/103685054/f03a14c2-7bb0-4c41-ae92-9abb8925d5ae)<div style="text-align: center;">
-  
+
 
 <h2 align="center" tabindex="-1" dir="auto"><a id="user-content-barber---barber-website" class="anchor" aria-hidden="true" tabindex="-1" href="#barber---barber-website">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
